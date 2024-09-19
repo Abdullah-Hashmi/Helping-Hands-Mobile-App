@@ -1,0 +1,83 @@
+/* fonts */
+export const FontFamily = {
+  subheadLgSHLgMedium: "Poppins-Medium",
+  titleMdTMdSemibold: "Poppins-SemiBold",
+  subheadLgSHLgRegular: "Poppins-Regular",
+  sFProText: "SF Pro Text",
+  interBold: "Inter-Bold",
+  interMedium: "Inter-Medium",
+};
+/* font sizes */
+export const FontSize = {
+  subheadLgSHLgMedium_size: 16,
+  titleMdTMdSemibold_size: 24,
+  headlineSmHSmMedium_size: 18,
+  subheadSmSHSmMedium_size: 14,
+  captionCaptionMedium_size: 12,
+  titleSmTSmMedium_size: 22,
+  headlineLgHLgMedium_size: 20,
+  size_3xs: 10,
+  size_5xs: 8,
+  titleLgTLgMedium_size: 28,
+  size_mini: 15,
+};
+/* Colors */
+export const Color = {
+  shadesWhite: "#fff",
+  neutralGray500: "#898989",
+  textColorContentPrimary: "#2a2a2a",
+  titleText: "#262626",
+  lightThemeTextHeading: "#141414",
+  textAndIconContentOnInverse: "#121212",
+  primary700: "#008955",
+  neutralGray600: "#717171",
+  textAndIconContentTertiary: "#5a5a5a",
+  primary50: "#e2f5ed",
+  baseColorPrimaryColor: "#08b783",
+  primary500: "#00aa6d",
+  defaultSystemBlueLight: "#007aff",
+  textColorContentSecondary: "#414141",
+  baseColorInfoColor: "#b8b8b8",
+  colorSilver_100: "rgba(197, 201, 208, 0.9)",
+  neutralGray400: "#a0a0a0",
+  labelColorLightPrimary: "#000",
+  borderDividerDivider: "#e8e8e8",
+  colorGainsboro_100: "#ddd",
+  primary200: "#8ad4b5",
+  neutralGray200: "#d0d0d0",
+  baseColorErrorColor: "#f44336",
+  draftingSecondary: "rgba(194, 204, 222, 0.25)",
+  colorForestgreen: "#43a048",
+  primary100: "#b9e5d1",
+  colorWhitesmoke: "#eff0f1",
+  colorLightslategray: "#8a91a8",
+};
+/* Paddings */
+export const Padding = {
+  p_74xl_5: 94,
+  p_base_5: 16,
+  p_5xs: 8,
+  p_base: 16,
+  p_3xs: 10,
+  p_87xl: 106,
+  p_71xl: 90,
+  p_69xl_5: 89,
+  p_xs: 12,
+  p_7xs: 6,
+  p_9xs: 4,
+  p_26xl: 45,
+  p_29xl: 48,
+};
+/* border radiuses */
+export const Border = {
+  br_81xl: 100,
+  br_5xs: 8,
+  br_xs: 12,
+  br_5xl: 24,
+  br_11xl: 30,
+  br_61xl: 80,
+  br_8xs: 5,
+  br_21xl: 40,
+  br_9xs: 4,
+  br_base: 16,
+};
